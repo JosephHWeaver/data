@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Flarion",
+    "age": 120,
+    "power": "Fire Manipulation",
+    "species": "Dragon",
+    "alignment": "Chaotic Neutral"
+  },
+  {
+    "name": "Glumbra",
+    "age": 47,
+    "power": "Invisibility",
+    "species": "Goblin",
+    "alignment": "Neutral Evil"
+  },
+  {
+    "name": "Aetheris",
+    "age": 203,
+    "power": "Air Control",
+    "species": "Elemental",
+    "alignment": "Lawful Good"
+  }
+]
